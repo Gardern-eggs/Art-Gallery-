@@ -9,10 +9,10 @@ html{
 h1 h2{
     font-family: "Big Shoulders Display";
 }
-    body{
+body{
         width: 100vh;
         height: 100vh;      
-    }
+
     .whole{
         width:100vw;
         height: 100vh;
@@ -618,18 +618,18 @@ h1 h2{
         height: 40px;
     }
     #about{
-        width: 311px;
-        height: 140px;
-        flex-wrap: wrap;
-        position: absolute;
-        top:90px;
-        left: -100px;
+     width: 311px;
+     height: 140px;
+     flex-wrap: wrap;
+     position: absolute;
+     top:90px;
+     left: -100px;
         
-    } 
-    .contact-icon{
-        width: 100px;
-        height: 20px;
-        position: absolute;
-        top: 260px;
-        left: 30px;
-    }
+} 
+.contact-icon
+  width: 100px;
+  height: 20px;
+  position: absolute;
+  top: 260px;
+  left: 30px;
+}
